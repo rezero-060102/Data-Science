@@ -1,0 +1,202 @@
+Berkenalan dengan Data
+- https://www.halodoc.com/artikel/berapa-tinggi-badan-ideal-untuk-anak-laki-laki
+- https://goodstats.id/article/indonesia-dominasi-daftar-hidangan-dengan-rating-terbaik-se-asia-tenggara-nasi-padang-teratas-yCb93
+
+- Game.
+- https://docs.google.com/document/d/133Kw92UmDXkelbxcufx4RM__ufDWlLqZzIF5DMHF07o/copy
+- https://docs.google.com/document/d/1OKKCTSmZx52df8eLlZ1mNYCAUI1HjDQD_C_KDAsKQ9I/copy
+
+dos:f4bb003c53a61e9d7e76653442d39c7320230828113845.jpeg
+
+kareter A
+Hai! Selamat datang di modul pertama kelas dasar Data Scieence.
+
+Kareter B.
+Have anice study.
+
+Hai! Selamat datang di materi pertama dari Kelas Belajar Dasar Data Science. Sebelum Anda memilih untuk mempelajari kelas ini, tentu Anda memiliki motivasi yang kuat untuk menjadi seorang Data Scientist. Menjadi seorang Data Scientist yang andal tentunya memerlukan fondasi yang kuat. Fondasi tersebut bisa dibentuk melalui pembelajaran teks, video, maupun latihan. 
+
+Tentunya, Anda telah berada di kelas yang tepat karena tiga hal tersebut akan Anda dapatkan, serta selangkah lebih dekat menjadi Data Scientist yang andal. Pada modul ini, Anda akan mempelajari banyak hal, mulai dari berkenalan dengan data, jenis-jenis data, menentukan keputusan dengan data, big data in action, hingga evolusi ilmu big data. Kelima submodul tersebut diharapkan mampu menjadi fondasi dasar untuk Anda dalam memahami konsep dasar data. Menarik sekali, bukan?
+
+Jangan lupa tarik nafas dan berdoa terlebih dahulu, serta jaga semangatnya hingga akhir kelas nanti, ya! Yuk, kita lanjut ke materi berikutnya.
+
+
+
+Mengenali Data Secara Umum
+Sebelum Anda belajar di kelas ini, pasti sebelumnya Anda telah bergelut dengan data baik secara sadar maupun tidak sadar. Namun, apakah Anda tahu sebenarnya apa sih pengertian data secara harfiahnya?
+
+Berdasarkan Kamus Besar Bahasa Indonesia, data adalah keterangan yang benar dan nyata; keterangan atau bahan nyata yang dapat dijadikan dasar kajian; informasi dalam bentuk yang dapat diproses oleh komputer, seperti representasi digital dari teks, angka, gambar grafis, atau suara.
+
+Menurut Kamus Cambridge, data adalah informasi, terutama fakta atau angka, dikumpulkan untuk diperiksa dan dipertimbangkan, serta digunakan untuk membantu pengambilan keputusan atau informasi dalam bentuk elektronik yang dapat disimpan dan digunakan oleh komputer.
+
+Selain itu, ada juga definisi data menurut ahli, yaitu Drs. Jhon J. Longkutoy mengatakan bahwa Data adalah suatu istilah majemuk dari fakta yang mengandung arti yang dihubungkan dengan kenyataan, simbol, gambar, angka, huruf yang menunjukan suatu ide, objek, kondisi atau situasi, dan lainnya.
+
+dos:72e6b78089066565a3c3e05216ec176120230828113843.jpeg
+
+Ketika melihat buku atau sebuah bacaan, pasti Anda melihat sebuah data yang disajikan dalam bentuk angka, grafik, dan lain-lain. Apakah Anda sadar bahwa data tidak hanya berbentuk angka dan grafik semata? Ternyata, data juga bisa digambarkan dalam bentuk lain seperti analogi yang terdapat pada gambar di bawah ini.
+
+dos:0f50bf5d96ce792e82e01660f6fb270320230828113845.jpeg
+
+Coba tebak! Manakah yang tergolong dalam sebuah data? Sebutkan tiga hal yang termasuk data dalam gambar di atas. Jawab dalam waktu lima detik, ya. Satu… Dua… Tiga… Empat… Lima…
+
+Jika Anda sudah menemukan jawabannya, tuliskan di forum diskusi dengan format berikut, ya.
+
+“AKI_Pengenalan Data_(jawaban Anda)”
+
+Ayo kita telaah satu per satu hal-hal yang termasuk data pada gambar di atas. Data yang ada di sana antara lain: maps, petunjuk jalan, dan kecepatan pada speedometer. Apakah jawaban Anda juga sama?
+
+Nah, dari ketiga pengertian dan analogi yang tertulis di atas, dapat disimpulkan bahwa data merupakan fakta atau informasi yang berbentuk teks, angka, gambar, dll. Tentu Anda sudah memahaminya, bukan?
+
+Namun, pernahkah pertanyaan di bawah ini terlintas di benak Anda? 
+
+“Bagaimana caranya mengumpulkan data agar menjadi sebuah informasi?”
+“Metode apa yang digunakan agar data tersebut dapat bermanfaat?” atau
+“Bagaimana cara mengolah data-data tersebut?”
+Jawaban pertanyaan di atas bisa Anda dapatkan dengan mempelajari kelas ini. Yuk, simak penjelasannya di materi berikutnya.
+
+
+
+Metode Pengumpulan Data
+dos:17f40614f1ff546b2a43dc00b2c5a46220230828113844.jpeg
+
+Kareter A.
+Ikan sangat bagus, ya
+
+kareter B.
+Wah, ternyata ada dua ikan mass dan ikan trout.
+
+Menjadi sebuah kumpulan data yang dapat menghasilkan atau menyampaikan sebuah informasi tentu tidak sembarang dan perlu cara khusus untuk mengumpulkannya. Dasarnya, metode pengumpulan data terbagi menjadi dua, yaitu data kuantitatif dan data kualitatif. Dengan kedua metode tersebut, data akan dapat menjadi satu paduan yang menghasilkan sebuah informasi. Penasaran bagaimana caranya? Simak penjelasannya di bawah ini, ya.
+
+
+
+Data Kuantitatif
+Kuantitatif atau kuantitas memiliki arti jumlah atau banyak. Menurut Australian Bureau of Statistics, kuantitatif adalah nilai data berupa hitungan atau angka di mana setiap kumpulan data memiliki nilai numerik yang unik. Data ini adalah informasi terukur yang dapat digunakan peneliti untuk perhitungan matematis dan analisis statistik untuk membuat keputusan kehidupan nyata berdasarkan data tersebut.
+
+Perhatikan gambar di bawah ini.
+
+dos:fe27b0b6224e44ec982cc265966bb6a620230828113845.jpeg
+
+Gambar 1 menampilkan moll atau tempat belajar.
+
+Gambar ke 2 menampilkan dialog menampilkan dialog antara kareter A dan B.
+Kareter A. 
+Berapahkah Harga batik ini?
+
+Kareter B.
+Harganya Rp. 95.000,-
+
+Gambar ke 3
+Kareter A.
+Ya sudah aku mau beli ini 2, ya
+
+
+Gambar ke 4.
+Karater B.
+Totalnya jadi Rp 190.000,-
+
+
+
+Mari kita analogikan gambar di atas. Bayangkan, Anda pergi ke pasar Beringharjo di Jogja untuk membeli cendera mata khas Jogja. Anda tertarik dengan baju batik yang terdapat pada salah satu kios di sana. Apakah Anda tahu? Jawaban-jawaban dari pelayan tersebut merupakan variabel numerik yang menghasilkan data kuantitatif. Seperti, bertanya harga batik dan banyak karyawan di toko tersebut.
+
+Biasanya data kuantitatif dikumpulkan menggunakan survey, polling, atau kuesioner yang dibagikan ke populasi tertentu.
+
+Contoh-contoh data kuantitatif yang lain dapat Anda lihat di bawah ini.
+
+Menurut Badan Pusat Statistik, jumlah penduduk Indonesia tahun 2023 tercatat sebanyak 278,696 juta jiwa.
+Menurut Halodoc, tinggi badan rata-rata pria Indonesia adalah 160 cm.
+Menurut GoodStats, nasi padang memiliki rating 4.9 dari 5 dan menjadi makanan terbaik di Asia Tenggara.
+Hal lain yang perlu Anda ketahui adalah setiap metode pengumpulan data memiliki kelebihan dan kekurangannya masing-masing. Berikut merupakan kelebihan dan kekurangan dari data kuantitatif.
+
+Kelebihan
+
+Data kuantitatif dapat dianalisis secara statistik, kemungkinan besar penelitian akan dirinci.
+Memiliki nilai bias minimum. Menurut Kamus Oxford, bias adalah kecenderungan atau prasangka untuk atau terhadap satu orang atau kelompok, terutama dengan cara yang dianggap tidak adil.
+Hasil yang diperoleh akan sangat akurat karena bersifat objektif.
+Kekurangan
+
+Informasi terbatas. Karena data kuantitatif tidak deskriptif, hal tersebut menjadikan peneliti sulit untuk mengambil keputusan jika hanya berasal dari informasi yang dikumpulkan.
+Bergantung pada jenis pertanyaan. Bias dalam hasil bergantung pada jenis pertanyaan yang disertakan untuk mengumpulkan data kuantitatif. Pengetahuan peneliti tentang pertanyaan dan tujuan penelitian sangat penting saat mengumpulkan data kuantitatif.
+Setelah mengetahui tentang data kuantitatif, mungkin Anda tercetus pertanyaan baru, “Lalu, apa bedanya dengan data kualitatif?” Yuk, simak penjelasannya di bawah ini.
+
+
+
+Data Kualitatif
+Menurut sumber Australian Bureau of Statistics, menjelaskan bahwa data kualitatif adalah ukuran jenis dan dapat diwakilkan oleh nama, simbol, atau kode angka. Data kualitatif juga adalah data tentang variabel kategori.
+
+Ciri data kualitatif dapat diamati dan direkam, serta tipe data ini bersifat non-numerik. Data kualitatif dapat dikumpulkan melalui metode observasi, wawancara one on one, melakukan study group, dan metode sejenis lainnya.
+
+Perhatikan gambar berikut.
+
+dos:d45d51788aa01c0a2c28d413e7f4850f20230828113845.jpeg
+
+Gambar in menampilkan latar belakang nya Borobudur.
+Kareter yang berada di gambar ini terdiri dari beberapa laki - laki dan perumpuan 
+dari sisi kiri cewek 1, cowok 2 ditengan cewek 3, cowok 4, dan cowok 5.
+
+cewek 1.
+Menurutku yang unik dari candi Borobudur adalah ceritanya karena nyaris dibangun selama
+1000 tahun.
+
+cowok 2.
+Menurutku  keren banget karena candi tersebut sudah di bangun sejak abab ke-8 dan ke-9.
+
+cewek 3.
+Bagaimana pendapat kalian tentang Candi Borobudur?
+
+cowok 4.
+Menurutku biasa hsaja karena kita hanya bisa menikmati di pelataran nya saja. 
+Meding cara destinasti yang lain.
+
+cowok 5. 
+Menurutku candi Borobudur sangatlah unik kerena memiliki relief Buddha terlengkap dan terbanyak di dunia,
+Yaitu 2.672 panel relief dan 504 arca Buddha.
+
+Mari kita analogikan bahwa Anda dan rekan-rekan sedang bersantai di Taman Lumbini Borobudur, Magelang, Jawa Tengah. Anda bertanya kepada rekan-rekan Anda terkait Candi Borobudur. Nah, perlu Anda ketahui bahwa jawaban yang diberikan oleh rekan-rekan Anda tersebut adalah contoh dari data kualitatif yang bersifat subjektif.
+
+Biasanya data kualitatif dikumpulkan menggunakan observasi, interview, studi pustaka atau dokumentasi serta catatan yang dibagikan kepada responden yang memenuhi kualifikasi.
+
+Perhatikan contoh-contoh data kualitatif lainnya di bawah ini.
+
+Maluku Utara adalah kota yang paling bahagia di Indonesia.
+Kota yang memiliki pendapatan tertinggi di Indonesia adalah DKI Jakarta.
+Bandung adalah kota pertama yang paling diminati di Indonesia.
+Hal lain yang perlu Anda ketahui adalah setiap metode pengumpulan data memiliki kelebihan dan kekurangannya masing-masing. Berikut merupakan kelebihan dan kekurangan dari data kualitatif.
+
+Kelebihan
+
+Data yang dikumpulkan memberi para peneliti analisis terperinci. Saat mengumpulkannya, para peneliti cenderung menyelidiki peserta dan dapat mengumpulkan banyak informasi dengan mengajukan pertanyaan yang tepat. Data yang terkumpul digunakan untuk menyimpulkan rangkaian pertanyaan dan jawaban.
+Data membantu seorang peneliti untuk memahami pola pikir narasumber/pengguna. Penggunaan data kualitatif memberikan wawasan tentang mengapa narasumber/pengguna menggunakan produk tersebut. Memahami bahasa pelanggan membantu menyampaikan data yang dikumpulkan secara lebih sistematis.
+Data yang dikumpulkan dapat digunakan untuk melakukan penelitian di masa mendatang. Karena pertanyaan yang diajukan untuk mengumpulkan data kualitatif adalah pertanyaan terbuka, responden bebas mengungkapkan pendapat mereka untuk menyampaikan lebih banyak informasi.
+Kekurangan
+
+Memakan waktu. Karena mengumpulkan data ini butuh lebih banyak waktu dibandingkan kuantitatif, lebih sedikit pula orang yang mengambil metode pengumpulan data kualitatif, kecuali waktu dan anggaran yang memungkinkan dan ukuran sampel yang lebih kecil.
+Tidak mudah untuk menggeneralisasi. Karena lebih sedikit orang yang diteliti, kita juga akan sulit untuk menggeneralisasikan hasil dari populasi tersebut.
+Bergantung pada keterampilan peneliti. Jenis data ini dikumpulkan melalui wawancara one on one, observasi, study group, dan lain-lain. Hal ini bergantung pada keterampilan dan pengalaman peneliti untuk mengumpulkan informasi dari sampel.
+Nah, sampai di sini, Anda sudah mengetahui pengertian data beserta contoh pengumpulan data. Selanjutnya, mari kita latih pemahaman terkait metode pengumpulan data di permainan Truth or Dare berikut.
+
+
+
+Truth or Dare
+dos:9cc86e1483aef57ad00c80d9ebb8a84a20230828113844.jpeg
+
+Truth or Dare
+
+
+Setelah memahami data secara umum dan metode pengumpulan data yang terdiri dari data kuantitatif dan kualitatif, nah yang terakhir ini adalah latihan pengertian data melalui permainan truth or dare. Jadi, dalam permainan ini, Anda diminta untuk menjawab soal secara jujur dan berani menyelesaikannya dalam dua menit. Bagikan pengalaman Anda dan nilai hasil dari rekan-rekan lainnya di forum diskusi.
+
+Sebelum mencoba permainan ini, ada beberapa syarat yang perlu Anda ikuti.
+
+Siapkan stopwatch untuk mengukur seberapa cepat Anda menyelesaikan soal tersebut.
+Unduh soal yang tertera pada tautan di bawah.
+Lengkapi kolom kosong dengan jawaban Anda.
+Selesaikan permainan secara jujur.
+Tuliskan hasil yang Anda peroleh di forum diskusi dengan format sebagai berikut.
+“AKI_TOD_(Waktu mengerjakan)_(Tuliskan pemahaman Anda hingga sub-bab ini)”
+Siapkan keberanian untuk melihat waktu pengerjaan rekan-rekan Anda yang lain.
+Good luck!
+
+Download Game Truth or Dare
+
+Jawaban Game Truth or Dare
+
+
