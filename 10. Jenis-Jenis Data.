@@ -1,0 +1,142 @@
+Jenis-Jenis Data
+Setelah mengetahui cara mengumpulkan data, pada bagian ini, Anda akan mempelajari jenis-jenis data dari data kuantitatif dan data kualitatif. 
+
+dos:8d242d6c749d8d927309f08dd7cca67620230828145123.jpeg
+
+cewek 1. 
+Kuantitatif: Numerik
+
+cowok 2.
+Kualitatif: Kategorikal
+
+Pada materi sebelumnya, kita sudah mengetahui bahwa data kuantitatif bersifat numerikal dan data kualitatif bersifat kategorikal.
+
+Nah, di sini Anda akan mempelajari data-data bersifat numerikal yang dapat diolah sebagai data kuantitatif dan juga data-data bersifat kategorikal yang dapat diolah sebagai data kualitatif.
+
+Anda akan menemui beberapa jenis data beserta turunannya, yaitu data numerikal yang terdiri dari data kontinu dan data diskrit. Lalu, pada data yang bersifat kategorikal, Anda akan berhadapan dengan data nominal dan data ordinal. Kira-kira contohnya seperti apa, ya? Yuk, simak penjelasannya di bawah ini.
+
+
+
+Data Numerik
+dos:6a8b2430577378e3bc3b204f98c30ded20230828145126.jpeg
+
+- Pengukuran
+
+
+Data numerik adalah data berwujud angka yang bisa didapat dari sebuah pengukuran.
+
+Misalnya, tinggi badan, berat badan, dan usia. Selain itu, data ini juga bisa diperoleh dari sebuah perhitungan. Misalnya, jumlah orang yang hadir di pesta pernikahan atau jumlah penduduk Indonesia. Nah, data numerik ini terbagi menjadi dua bagian, yaitu data kontinu dan diskrit.
+
+Data Kontinu
+Data kontinu dapat direpresentasikan dalam berbagai nilai numerik, seperti bilangan desimal, bulat, dan lain-lain. Beberapa tipe data kontinu yang umum adalah tinggi, berat, waktu, suhu, usia, dan lain-lain.
+
+dos:e0098c22d11d49321b05ca55623287fa20230828145123.jpeg
+
+Mari kita analogikan bahwa Anda ingin mengunjungi sebuah arena bermain Jatim Park 1 di Kota Batu, Jawa Timur.
+
+Sebelum menaiki wahana roller coaster, Anda diminta untuk diukur tinggi badan terlebih dahulu untuk memastikan kelayakan tinggi badan dan berat badan pada permainan tersebut.
+
+Petugas mencatat data Anda sebagai berikut.
+
+Tinggi 160.5 cm
+Berat 60.18 kg
+Dari data tersebut maka Anda memenuhi kriteria untuk bisa menaiki wahana tersebut karena minimal tinggi dan berat badan yang menjadi batas adalah 110 cm dan 30 kg, sedangkan maksimal berat badan yang menjadi batas adalah 100 kg.
+
+Data Diskrit
+Data diskrit merupakan data numerik yang hanya bisa direpresentasikan dengan bilangan bulat dan tidak dapat dibagi ke dalam unit yang lebih kecil.
+
+Perhatikan gambar berikut.
+
+dos:7bb6ca4141dc416a94d47dbdb865573320230828145124.jpeg
+
+Gambar tersebut menunjukan, bahwa Anda adalah salah satu dari 1254 pengunjung Jatim Park pada hari itu. Karena pengunjung merupakan sebuah individu yang tunggal, tidak dapat dibagi ke dalam unit yang lebih kecil, maka pengunjung termasuk pada data diskrit.
+
+Oke, kita sudah mengenal jenis-jenis data yang termasuk dalam data kuantitatif. Lalu, bagaimana bentuk dari data kategorikal? Perhatikan penjelasan selanjutnya di bawah ini.
+
+
+
+Data Kategorikal
+Data kategorikal merupakan data yang dapat dikelompokkan dan terbagi berdasarkan karakteristik atau ciri khasnya masing-masing. Dari data kategorikal, ada dua pembagian, yaitu nominal dan ordinal. Mari kita bahas satu per satu.
+
+Data Nominal
+Data nominal adalah jenis pengelompokan data yang tidak memiliki keterkaitan dengan data lainnya dan tidak memiliki arti khusus. Jadi, data ini dapat dibedakan tanpa harus mengurutkan atau dibandingkan dengan data lainnya.
+
+Perhatikan gambar di bawah ini.
+
+dos:8c42097676ffda417ae3c38f49c4b1da20230828145124.jpeg
+
+Seperti yang tertera pada gambar di atas, Anda mengunjungi Taman Mini Indonesia Indah. Anda mengunjungi beberapa rumah adat, seperti Rumah Gadang dari Padang, Rumah Joglo asal Jogja, dan Rumah Honai dari Papua. Pada dasarnya rumah-rumah adat tersebut tidak saling berhubungan, tetapi dapat diklasifikasikan menjadi rumah adat di Indonesia.
+
+Data Ordinal
+Berlawanan dari data nominal, data ordinal adalah jenis pengelompokan data yang memiliki urutan atau harus disusun secara berurutan dengan mekanisme peringkat.
+
+Perhatikan gambar di bawah ini.
+
+dos:cb4bdc692d720efb691344cf82d1e04220230828145125.jpeg
+
+Manakah menurut Anda yang lebih bagus? Apakah gunung atau laut? Berdasarkan gambar yang Anda lihat bahwa terdapat rating atau peringkat pada kedua destinasi liburan tersebut. Bintang 4 mengartikan bahwa tingkat kepuasan wisatawan yang mengunjungi Gunung Rinjani masih kurang jika dibandingkan dengan wisata Raja Ampat yang memiliki rating bintang 5. 
+
+Nah, informasi tersebut merupakan contoh dari data ordinal bahwa jenis data tersebut diurutkan berdasarkan peringkat.
+
+
+
+Implementasi Data di Industri
+Dengan keberadaan data yang kian hari kian membesar, tidak dapat dipungkiri bahwa sekarang kita telah hidup berdampingan dengan data, bahkan seorang bayi sekalipun sebelum lahir telah memiliki data kelahiran, bukan?
+
+Nah, coba Anda perhatikan gambar di bawah ini.
+
+dos:29d6b23a532c8badef75ddee30bb071420230828145125.jpeg
+
+Gambar tersebut telah menunjukan hal yang terjadi apabila kita tidak menggunakan data dengan baik. Akibat yang bisa ditimbulkan adalah salah persepsi bahkan dapat berakibat fatal untuk perusahaan. Lalu, sebenarnya apa kegunaan data bagi organisasi dan perusahaan?
+
+Menurut sumber dari The Council on Quality and Leadership, berikut adalah 12 alasan data digunakan di sebuah industri.
+
+Meningkatkan kehidupan. Penggunaan data di organisasi adalah hal penting pertama yang harus diperhatikan oleh perusahaan atau organisasi guna meningkatkan kualitas atau meningkatkan kesejahteraan.
+Membuat keputusan. Data sama dengan pengetahuan. Data yang baik dapat memberikan bukti yang tidak dapat dielakkan dan bermanfaat untuk perusahaan atau organisasi. Sebaliknya,apabila data tersebut hanya berupa asumsi atau pengamatan abstrak, ia akan bisa menjadi bumerang karena mengambil tindakan atau keputusan berdasarkan kesalahan data tersebut.
+Memantau kualitas. Dengan memanfaatkan data untuk pemantauan kualitas, organisasi mampu menghadapi tantangan sebelum terjadi krisis.
+Dapatkan hasil yang diinginkan. Ketika strategi diterapkan untuk mengatasi tantangan, mengumpulkan data akan memungkinkan Anda untuk menentukan seberapa baik solusi yang Anda lakukan.
+“Anda tidak dapat mengelola apa yang tidak Anda ukur”
+
+- Peter Drucker
+
+Temukan solusi untuk masalah. Data memungkinkan organisasi untuk memvisualisasikan hubungan antara yang terjadi di berbagai lokasi, departemen, dan sistem. Jika jumlah kesalahan meningkat, data dapat menunjukan penyebab masalah tersebut terjadi pada organisasi atau perusahaan.
+Cadangan argumen. Memanfaatkan data akan membantu Anda menyajikan argumen yang kuat apabila terjadi perubahan sistem baik di organisasi atau perusahaan. Dengan menggunakan data Anda dapat berargumentasi mengapa perlu dilakukan perubahan atau tidak sekalipun.
+Berhenti menebak! Data akan membantu Anda menjelaskan sebuah keputusan (baik dan buruk) kepada stakeholder. Data menjadikan Anda tidak menebak-nebak sebuah hasil apabila menggunakan data yang telah diperoleh.
+Menjadi strategis. Data akan mendukung organisasi untuk menentukan area yang harus diprioritaskan terlebih dahulu dibandingkan yang lain.
+Mengetahui kinerja. Analisis data akan mendukung Anda mengidentifikasi program kerja tinggi, layanan, dan para karyawan. Setelah melakukan analisis, Anda dapat mempelajarinya untuk mengembangkan strategi untuk membantu program, layanan, dan para karyawan yang memiliki kinerja buruk.
+Tetap pada jalur. Data yang baik memungkinkan organisasi tetap berada pada jalurnya (baseline), memiliki tolok ukur, dan tujuan untuk terus bergerak maju.
+Memaksimalkan biaya Anda. Dengan menggunakan data, organisasi atau perusahaan mampu menerapkan praktik berbasis bukti dan mengembangkan sistem untuk mengumpulkan dan menganalisis data.
+Akses sumberdaya. Untuk menggunakan data tentu perlu diperhatikan sumber daya yang mampu mengoperasikannya baik Excel, Spreadsheet, atau sumber online gratis lainnya. Anda bisa melakukan pencarian di website dengan keyword “Cara menganalisis data” atau “Cara menggunakan Excel atau Spreadsheet”
+
+Tahukah Anda?
+dos:ddf8939b549806dc3bfce016c9c7cf4120230828145125.jpeg
+
+Menurut Statista, seluruh organisasi meningkatkan upaya perekrutan untuk membangun data science yang lebih luas. Rata-rata jumlah data scientist yang dipekerjakan suatu organisasi tumbuh dari 28 menjadi 50. 
+
+Hal tersebut juga senada dengan artikel dari Harvard Online yang mengatakan bahwa data science dapat membantu mengidentifikasi masalah serta memperjelas data yang harus dikumpulkan dan dianalisis untuk dijalankan guna membantu memecahkan sebuah masalah. Oleh karena itu, permintaan perekrutan data science meningkat di setiap organisasinya.
+
+Selain Statista dan Harvard Online, 365Data Science juga menyebutkan bahwa permintaan paling signifikan untuk data scientist di bidang IT & Tech adalah 49%. Kemudian sektor layanan keuangan dan kepegawaian serta perekrutan masing-masing 14% dan 11%. Lalu, dari sektor industri menawarkan 4% dan bidang kesehatan sebanyak 3%, serta sektor pertahanan 2%. Sisanya berasal dari sektor-sektor lainnya.
+
+Mari kita eksplor berbagai peran yang berkecimpung di dunia data science seperti yang tertera pada gambar di bawah ini.
+
+dos:613d7d20e1791c7e9ab7ae9b442138e920230828145125.jpeg
+
+Untuk dapat berkecimpung di dunia data science, Anda tidak harus melulu menjadi seorang data scientist, lho.
+
+Seperti yang Anda lihat pada kolom LinkedIn di atas. Dengan mencari keyword “data science”, akan banyak posisi-posisi yang berkecimpung di dunia data, seperti senior data scientist, data analyst, bahkan project leader. Mengapa hal tersebut bisa terjadi? Pada dasarnya, ketika Anda mencari keyword tersebut, nantinya akan muncul posisi-posisi yang memiliki syarat serupa dengan kemampuan data science, seperti komunikasi, SQL, Python, dan masih banyak lagi.
+
+Jadi, apabila Anda ingin berkecimpung di dunia data, ingatlah bahwa mempelajari data science tidak harus selalu menjadi data scientist, tetapi masih banyak posisi lain yang dapat Anda cari.
+
+
+
+Asah Kemampuan Intelektual!
+Anda memiliki rencana untuk berbelanja ke Pasar Gede, Kota Surakarta, Jawa Tengah seperti yang tertera pada gambar di bawah ini.
+
+dos:e864e493b894a65353fe7b54bd8e018c20230828145126.jpeg
+
+Dari beberapa aktivitas di atas mana sajakah yang termasuk dalam jenis-jenis data yang telah dijelaskan sebelumnya? Yuk, bagikan jawaban Anda di forum diskusi menggunakan format di bawah ini.
+
+“AKI_Jenis Data_(jawaban Anda)”
+See you there.
+
+
