@@ -1,0 +1,198 @@
+Big Data in Action
+Semakin pesat berkembangnya teknologi, semakin pesat pula perkembangan data di dunia. Setiap industri berbondong-bondong dalam memanfaatkan data yang diperoleh agar menjadi sebuah informasi yang bermanfaat untuk revenue yang didapatkan bahkan keberlangsungan perusahaan tersebut. Semakin besar perusahaan maka kebutuhan akan data semakin banyak dan semakin luas. 
+
+Mari kita sebut saja yaitu big data, sebuah konsep pengelompokan atau pengumpulan data dalam skala besar. Nah, materi ini adalah bagian lanjutan dari mengenali data secara umum, karena setelah Anda memahami dasar-dasar data yang perlu Anda ketahui adalah perihal big data yang sudah amat melekat dengan kehidupan data saat ini. Dengan mempelajari big data, Anda akan mengetahui perbedaan antara small data versus big data dengan tujuan agar mengetahui cara mengolah keduanya. Penasaran bagaimana menariknya isi sub modul ini? Yuk, Kita lanjutkan pembahasannya.
+
+
+Apa itu Big Data?
+dos:deb70bfca4f536d4196a0203759cbb6a20230828155629.jpeg
+
+A. Three V Big Data.
+1. Volume.
+2. Variety.
+3. Velocity.
+
+
+Menurut The Gartner IT Glossary, Big data adalah aset informasi bervolume tinggi (high-volume), berkecepatan tinggi (high-velocity), dan/atau memiliki banyak ragam (high-variety) yang menuntut bentuk pemrosesan informasi yang hemat biaya dan inovatif yang memungkinkan peningkatan wawasan, pengambilan keputusan, dan otomatisasi proses.
+
+Menurut Kompas, Big data merupakan konsep pengelompokan atau pengumpulan data dalam skala besar yang terdiri dari berbagai macam jenis data, seperti data terstruktur, semi terstruktur, dan tidak terstruktur dengan konsep karakter mendasar meliputi Three V yaitu volume, variety, dan velocity.
+
+Serta menurut Oracle, Big data adalah data yang memiliki lebih banyak variasi, berada dalam volume yang meningkat, dan berada di kecepatan yang lebih tinggi. Atau dikenal juga sebagai 3V (Variety, Volumes, Velocity).
+
+Kesimpulan dari ketiga sumber tersebut terkait definisi big data, yaitu merupakan kumpulan data besar atau bervariasi yang memiliki karakter dasar Three V yaitu volume, variety, dan velocity. 
+
+Mari kita bahas ketiga istilah tersebut di bawah ini.
+
+
+
+Volume, Velocity, Variety
+Karakteristik Big Data adalah sifat-sifat, keistimewaan atau ciri-ciri yang mencerminkan bahwa data tersebut adalah data yang dikategorikan sebagai big data. Pada dasarnya karakteristik Big Data terbagi menjadi tiga, yaitu volume, velocity, dan variety. 
+
+Volume. Jumlah data yang dihasilkan dari banyak transaksi serta volume data yang disimpan. Contohnya, seperti penggunaan history browser, pencatatan transaksi pada e-commerce, data ktp atau data penduduk Indonesia, data pelanggan pada perbankan dan masih banyak lagi. Ukuran big data biasanya menggunakan skala Terabytes (1000 Gigabytes) dan ukuran Petabytes (1.000.000 Gigabytes).
+
+Variety. Variasi tipe dan variasi sifat dari data, apakah data tersebut bersifat terstruktur, semi terstruktur, ataupun tidak terstruktur. Mari kita bahas satu per satu.
+Data Terstruktur
+No	Kategori	                  Harga satuan	  Paket
+1    Tiket Masuk Objek Wisata   Rp30.000                                          
+
+2 Rafting 5 km/2 jam            Rp75.000
+
+3 1x Makan Siang                Rp25.000
+
+4 Coffee Break                  Rp15.000        Rp200.000
+
+5 Peralatan Rafting             Rp30.000
+
+6 Free Foto Rafting             Rp50.000
+
+Terlihat bahwa data pada tabel di atas tersusun rapi sesuai dengan struktur tabelnya. Jadi, orang dapat langsung memahami maksud yang ingin disampaikan dari tabel tersebut. Contohnya, Anda dan rekan-rekannya ingin berlibur di Ubud, Bali dengan melakukan rafting di sana.
+dos:8c40c1d60ebca5670eec307cce78e66920230828161500.png
+
+Jadi, dapat disimpulkan bahwa data terstruktur adalah salah satu jenis data yang disusun dengan rapi dan diatur sedemikian rupa sehingga memiliki format atau bentuk yang tetap. Karena pada tabel di atas memiliki format yang tetap, Anda bisa dengan mudah memahaminya atau langsung paham sekalipun data yang dimasukkan berbeda.
+
+
+Data Tidak Terstruktur
+Seperti namanya, data tidak terstruktur merupakan data yang memiliki struktur acak atau tak beraturan. Untuk, lebih jelasnya simak gambar di bawah ini.
+dos:35a6d14ca450d59023d4edf755c8e55920230828161549.png
+
+Apakah Anda menemukan perbedaan antara data terstruktur dan tidak terstruktur? Tentu Anda bisa dengan jelas melihat perbedaannya, bukan?
+
+Gambar di atas merupakan flyer dari kegiatan rafting. Terlihat dari flyer tersebut terdapat beberapa format data, seperti gambar dan teks. Dari data tidak terstruktur, kita dapat mengetahui bahwa sebuah data tidak harus selalu berbentuk tabel dan angka, tetapi jauh lebih luas dari itu.
+
+
+Data Semi Terstruktur
+dos:812f84a0fd916d3b8b3dfa0b044c039020230828161721.png
+Nah, selanjutnya kita akan membahas data semi terstruktur atau bisa dikatakan sebagai gabungan dari data terstruktur dan data tidak terstruktur. Masih bingung? Berikut penjelasan lengkapnya.
+
+Data semi terstruktur adalah data dengan bentuk yang tidak dikenal. Pada dasarnya, jenis data ini memiliki atribut terstruktur yang membuatnya tetap dapat dianalisis. Namun, pada saat yang bersamaan, data semi terstruktur ini tidak mengikuti suatu susunan tertentu seperti data tidak terstruktur.
+
+Contoh data semi terstruktur di antaranya adalah berkas dalam bentuk .csv, email, halaman web, dan sejenisnya.
+
+
+Velocity. Kecepatan dalam men-generate data, mengakses data serta memproses data. Big data platform dan big data analytics software tentu harus dapat memproses banyak data secepat mungkin ketika ada permintaan, contohnya adalah yang terdapat pada search engine Google. Ketika Anda ingin mencari suatu hal di Google, permintaan tersebut langsung diproses dan ditampilkan pada halaman Google.
+Small Data vs. Big Data
+Berikut merupakan perbandingan antara small data versus big data yang dapat Anda bandingkan satu per-satu. 
+
+Fitur	Small Data	Big Data
+Variasi
+
+Data biasanya terstruktur dan seragam.
+
+Data seringkali tidak terstruktur dan heterogen.
+
+Fakta
+
+Data umumnya berkualitas tinggi dan dapat diandalkan.
+
+Kualitas dan keandalan data dapat sangat bervariasi.
+
+Teknologi
+
+Tradisional
+
+Modern
+
+Volume
+
+Data dalam kisaran puluhan atau ratusan Gigabyte.
+
+Ukuran data lebih dari Terabyte.
+
+Basis Data
+
+SQL
+
+NoSQL
+
+Bahasa Pemrograman
+
+SQL
+
+Python, R, Java, SQL
+
+Posisi (Job)
+
+Data Analyst, Database Administrators, dan Data Engineer
+
+Data Scientist, Data Analyst, Database Administrators, dan Data Engineer.
+
+Kesimpulannya adalah big data merupakan kumpulan data besar yang berukuran di luar kemampuan alat perangkat lunak biasa untuk memroses, menyimpan, dan menganalisis. Lain halnya dengan small data yang ukurannya cukup kecil untuk disimpan di suatu mesin seperti server lokal atau laptop dan pastinya mudah diakses.
+
+Tentunya Anda sudah paham, bukan? Kalau sudah, mari kita lanjutkan ke pembahasan pentingnya Big Data.
+
+
+
+Mengapa Big Data Penting?
+Pada dasarnya, perusahaan menggunakan big data dalam sistem mereka untuk menggali potensi, meningkatkan operasi, memberikan layanan pelanggan yang lebih baik, dan mengambil tindakan atau keputusan yang dapat meningkatkan pendapatan atau keuntungan. Perusahaan yang menggunakan big data secara efektif memiliki potensi keunggulan kompetitif dibandingkan dengan bisnis yang tidak menggunakannya karena dapat membuat keputusan yang lebih cepat dan tepat.
+
+dos:60f4e4b4a22242ac25a77a17aae0ec0420230828155630.jpeg
+Source: DataReportal
+
+Dengan menggunakan big data, sebuah perusahaan akan diberikan sebuah insight (wawasan) tentang social media yang dapat digunakan perusahaan untuk menyempurnakan pemasaran, periklanan, dan promosi mereka guna meningkatkan keterlibatan pelanggan serta tingkat konversi.
+
+Big Data dan Data Science
+Big data dan Data Science merupakan hal serupa, tetapi tak sama. Mempelajari big data dalam data science merupakan hal yang mendasar agar Anda mengetahui keberadaan big data sebagai subset dari data science karena bidang tersebut berupa kumpulan data yang lebih besar. Kedua bidang ini bekerja di bidang yang sama, yaitu data. Anda akan menemukan dan mengelola data yang tidak terstruktur, data yang besar, dan kedua hal tersebut merupakan bagian dari big data. 
+
+Pada dasarnya, big data dan data science diimplementasikan bersama untuk memecahkan masalah data. Perhatikan urutan proyek big data di bawah ini.
+
+Identify the problem
+Get the data
+Prepare the data
+Analyze the data
+Generate reports and insights
+Perform practical actions
+Dari urutan di atas, tahapan 1, 2, dan 3 adalah langkah-langkah yang ditangani dengan teknologi big data, sedangkan pada tahapan 4, 5, dan 6 menggunakan teknologi data science. Oleh karena itu, data science tidak akan luput dari big data.
+
+Untuk mengelola big data pada data science, sebuah organisasi atau perusahaan memerlukan seorang data scientist yang dapat mengelola data-data tersebut hingga menghasilkan sebuah informasi yang bermanfaat untuk kelangsungan sebuah perusahaan.
+
+Saat ini, tidak dapat dipungkiri bahwa data scientist merupakan tenaga yang sangat diperlukan oleh startup dan perusahaan-perusahaan multinasional, seperti Gojek, Grab, Amazon, Tokopedia, Apple, Google, dan masih banyak lagi.
+
+
+
+Big Data di Mana-Mana
+Big Data dengan Sektor Pendidikan
+Industri pendidikan dibanjiri dengan sejumlah data yang besar terkait siswa, fakultas, hasil, dan lainnya. Apabila sektor pendidikan menggunakan big data dengan tepat, ia akan memberikan insight (wawasan) yang dapat digunakan untuk meningkatkan efektivitas operasional dan kerja lembaga pendidikan.
+
+dos:f603a5e7661d44dc7db4994a78d5a1d520230828155629.jpeg
+
+Berikut adalah beberapa bidang dalam industri pendidikan yang telah didorong oleh big data.
+
+LMS (Learning Management System). LMS adalah program perangkat lunak berbasis web untuk manajemen, dokumentasi, pemantauan, pelaporan, administrasi, dan distribusi konten pendidikan, program pelatihan, dan lain-lain. LMS merupakan ide dari e-learning yang dikembangkan dari kebutuhan akan konten pendidikan dan alat pelatihan. Penggunaan big data dalam LMS dapat menciptakan sistem umpan balik yang dapat membantu instruktur dan perancang materi untuk menemukan solusi atas masalah paling umum dalam pembelajaran online.
+Sistem penilaian. Kemajuan baru dalam sistem penilaian telah diperkenalkan sebagai hasil dari analisis data siswa yang tepat.
+Prediksi karier. Analisis dan studi yang tepat dari setiap catatan siswa akan membantu memahami kemajuan, kekuatan, kelemahan, minat setiap siswa, dan banyak lagi.
+Big Data dengan Industri Kesehatan
+Industri kesehatan adalah industri lain yang terikat untuk menghasilkan data dalam jumlah besar. Berikut merupakan implementasi big data yang telah diterapkan pada industri kesehatan.
+
+Big data mengurangi biaya perawatan karena lebih sedikit kemungkinan untuk melakukan diagnosis yang tidak perlu.
+Membantu memprediksi wabah epidemi dan juga memutuskan tindakan pencegahan yang dapat diambil untuk meminimalkan efek yang sama.
+Membantu menghindari penyakit yang dapat dicegah dengan mendeteksinya pada tahap awal.
+Pasien dapat diberikan obat berbasis data yang diidentifikasi dan diresepkan setelah meneliti hasil medis sebelumnya.
+Loh, bagaimana caranya?
+
+dos:1ccfd4d0f4bf252b64674df5eb130b1d20230828155629.jpeg
+
+Perangkat dan sensor yang dapat digunakan telah diperkenalkan di industri kesehatan yang dapat memberikan informasi secara langsung ke catatan kesehatan elektronik pasien. Salah satu perusahaan yang menerapkan teknologi tersebut adalah Apple.
+
+Apple telah menghadirkan Apple HealthKit, CareKit, dan ResearchKit. Tujuan utamanya adalah memberdayakan pengguna iPhone untuk menyimpan dan mengakses catatan informasi kesehatan secara langsung di ponsel mereka.
+
+Big Data dengan Media dan Hiburan
+Di zaman teknologi yang serba canggih, Anda pasti menjadi salah satu penikmat adanya teknologi tersebut. Salah satu dampak dari adanya teknologi adalah keberadaan media sosial. Ratusan juta atau bahkan milyar orang memiliki media sosial yang diakses dari gadget digital mereka, pembuatan data setiap harinya tidak dapat dihindari dan ini adalah penyebab utama munculnya big data di industri media dan hiburan.
+
+Berikut merupakan beberapa manfaat dari adanya big data di industri media dan hiburan.
+
+Memprediksi minat audiens. 
+Penjadwalan streaming (seperti Youtube, TikTok, Instagram) yang dioptimalkan atau sesuai permintaan di platform distribusi media digital.
+Mendapatkan insight (wawasan) dari feedback pelanggan.
+Penargetan iklan yang efektif.
+dos:40563e7368043529b14caf5dcb3549a420230828155630.jpeg
+
+Untuk Anda pengguna Spotify pasti sudah tidak asing lagi apabila diberikan rekomendasi lagu atau playlist otomatis dari Spotify. Nah, karena Spotify merupakan platform penyedia musik sesuai dengan permintaan, menggunakan big data analytics, mengumpulkan data dari semua penggunanya di seluruh dunia, lalu menggunakan data yang dianalisis untuk memberikan rekomendasi dan saran musik yang terinformasi kepada setiap pengguna individu.
+
+Peran Big Data pada Digital Transformation
+dos:b10f39c2f6622cf288baeae27f42464b20230828155630.jpeg
+
+Transformasi digital membantu perusahaan merangkul perubahan dan tetap kompetitif di dunia yang semakin digital. Peran big data dalam transformasi digital berasal dari potensi sebuah organisasi untuk menggabungkan keduanya dalam usahanya. Oleh karena itu, memungkinkan digitalisasi dan otomatisasi operasi bisnis. Digitalisasi dan otomatisasi ini meningkatkan efisiensi, memacu inovasi, dan mengarah ke model bisnis baru.
+
+Selain itu, big data analytics memungkinkan bisnis untuk mengamati informasi terperinci tentang kelompok pelanggan tertentu atau berbeda. Selain itu, bisa jadi untuk informasi lainnya berupa hal-hal yang dilakukan oleh customer saat berada di situs web mereka, barang yang dibeli, seberapa sering para customer membelinya, dan masih banyak lagi. Jadi, dengan menggunakan semua informasi ini, bisnis menerapkan perubahan untuk memenuhi kebutuhan pelanggan di masa depan. Oleh karena itu, untuk menyelesaikan transformasi digital, sektor bisnis perlu mengadopsi big data.
+
+
