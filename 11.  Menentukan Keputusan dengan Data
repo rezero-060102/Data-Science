@@ -1,0 +1,149 @@
+Menentukan Keputusan dengan Data
+- https://www.tableau.com/learn/articles/data-driven-decision-making#:~:text=Data-driven%20decision-making%20(,goals%2C%20objectives%2C%20and%20initiatives.
+
+Good Job! Anda telah melalui modul berkenalan dengan data. Seperti yang telah disebutkan sebelumnya pada bagian implementasi data di industri, bahwa salah satu penggunaan data adalah untuk membuat keputusan.
+
+dos:0dd1bc2825c0c37c03f84df9ed1b5ad820230828151137.jpeg
+
+Anda beserta rekan-rekan kerja Anda berencana ingin berlibur di akhir pekan nanti. Sebagai penggiat acara, Anda mencari rekomendasi tempat berlibur di sebuah platform travel. Anda memutuskan untuk memilih salah satu pulau di Pulau Belitung. Namun, ketika melihat testimoni, rating tempat tersebut memiliki bintang 3 dari 5 dan terdapat beberapa testimoni kurang menyenangkan. Bintang tersebut mengartikan bahwa semakin kecil ratingnya, semakin rendah kualitas tempat tersebut. Begitu pula sebaliknya, semakin tinggi rating tempat tersebut, artinya semakin baik pula kualitas dan reputasinya. Dengan melihat kondisi tersebut, Anda memutuskan untuk memilih destinasi lain yang memiliki rating lebih tinggi dari tempat tersebut.
+
+Analogi di atas merupakan contoh penggunaan data secara sederhana hingga menghasilkan sebuah keputusan. Namun, mengapa data menjadi hal yang sangat penting sebelum membuat keputusan? Yuk, kita cari tahu lebih lanjut.
+
+
+
+Mengapa Data Penting?
+Seperti yang telah disebutkan sebelumnya, apabila sebuah organisasi atau perusahaan tidak menggunakan data dengan baik dan benar, akan berakibat fatal terhadap organisasi tersebut.
+
+Untuk menjadi sebuah data yang dapat digunakan dan menghasilkan sebuah informasi yang bermanfaat, tentu tidak semata-mata mendapatkan data lalu tiba-tiba menjadi sebuah hasil yang diharapkan. Namun, butuh proses dibalik itu yang harus diolah terlebih dahulu sehingga data-data tersebut mampu menghasilkan sebuah wawasan.
+
+Perhatikan piramida Data - Information - Knowledge - Wisdom (DIKW) di bawah ini.
+
+dos:c1bcadfc105d123c36b3ed7e1ebed3eb20230828151137.jpeg
+
+Wisdom.
+Knowladge.
+Information.
+Data.
+
+Merujuk pada gambar di atas, dilansir dari jurnal Australasian Journal of Information System menjelaskan piramida DIKW di atas seperti berikut.
+
+Data
+Data adalah fakta atau pengamatan yang terpisah dan objektif, tidak terorganisir dan tidak diproses, serta tidak menyampaikan makna tertentu. Item data adalah deskripsi dasar dan tercatat dari hal-hal, peristiwa, kegiatan, dan transaksi.
+Informasi
+Informasi adalah data yang memberi nilai tambah pada pemahaman suatu subjek. Adapun definisi lainnya bahwa data informasi adalah data yang telah dibentuk menjadi bentuk yang lebih berarti dan berguna bagi manusia.
+Pengetahuan (Knowledge)
+Pengetahuan adalah kombinasi dari data dan informasi yang ditambahkan pendapat ahli, keterampilan, dan pengalaman sehingga menghasilkan aset berharga yang dapat digunakan untuk membantu pengambilan keputusan. Pengetahuan adalah data atau informasi yang telah diatur dan diproses untuk menyampaikan pemahaman, pengalaman, akumulasi pembelajaran, dan keahlian.
+Kebijaksanaan (Wisdom)
+Kebijaksanaan adalah akumulasi pengetahuan yang memungkinkan Anda memahami cara menerapkan konsep dari satu domain ke situasi atau masalah baru. Adapun pengertian lain yaitu kebijaksanaan adalah kemampuan untuk bertindak kritis atau praktis dalam situasi tertentu.
+Dari empat poin di atas dapat disimpulkan bahwa untuk menjadi sebuah data yang bermanfaat, ia perlu melewati beberapa proses mulai dari data mentah yang diolah hingga menjadi sebuah informasi, kemudian dari informasi tersebut dianalisis dan ditafsirkan supaya menjadi sebuah wawasan, hingga pada akhirnya wawasan tersebut dapat dijadikan untuk membuat keputusan yang bijak dalam penggunaan data tersebut. 
+
+Berikut adalah contoh penerapan DIKW:
+
+1. Data
+
+Data lalu lintas di Kota Bandung awalnya muncul sebagai kumpulan angka yang mencerminkan volume kendaraan yang melintas di berbagai titik jalan. Misalnya, data ini dapat mencakup jumlah kendaraan pada setiap jam selama seminggu di titik-titik tertentu.
+
+2. Informasi
+
+Melalui analisis data, informasi yang lebih rinci dapat dihasilkan. Informasi ini mencakup pemahaman tentang pola kemacetan di Kota Bandung, termasuk lokasi dan waktu dengan tingkat kemacetan tertinggi. Misalnya, informasi ini dapat mengidentifikasi bahwa ruas jalan tertentu cenderung mengalami kemacetan pada jam sibuk pagi dan sore.
+
+3. Knowledge
+
+Pengetahuan dapat diperoleh dengan memahami pola informasi yang dihasilkan. Dalam konteks ini, pengetahuan bisa berarti pemahaman bahwa jam sibuk pagi dan sore hari menjadi faktor utama penyebab kemacetan di beberapa ruas jalan Kota Bandung. Pengetahuan ini membantu dalam mengidentifikasi faktor-faktor penyebab kemacetan dan mendasari pengambilan keputusan.
+
+4. Wisdom
+
+Keberhasilan penanganan kemacetan di Kota Bandung bergantung pada penerapan kebijaksanaan yang didasarkan pada pengetahuan yang diperoleh. Kebijaksanaan ini dapat mencakup langkah-langkah seperti penyesuaian waktu lampu lalu lintas, peningkatan transportasi umum, dan pengembangan jalur sepeda. 
+
+Dengan menerapkan kebijaksanaan ini, diharapkan dapat mengurangi kemacetan dan meningkatkan mobilitas, membawa dampak positif bagi penduduk Kota Bandung secara keseluruhan. Penerapan konsep DIKW membantu menggambarkan perjalanan dari data mentah hingga kebijaksanaan yang dapat membawa perubahan positif dalam mengelola lalu lintas.
+
+Nah, untuk membuat sebuah keputusan terlebih pada sebuah organisasi atau perusahaan, tentunya tidak dapat sembarangan dan perlu banyak pertimbangan.
+
+“Apakah data tersebut sudah dapat dibuat untuk mengambil keputusan?”
+“Bagaimana cara membuat keputusan yang bijak dalam penggunaan data?”
+Untuk menjawab pertanyaan di atas, Anda akan mempelajari data-driven decision making atau pengambilan keputusan berbasis data. Penasaran? Mari kita lanjutkan pembahasannya.
+
+
+
+Data-Driven Decision Making (Data dan Keputusan)
+Tahukah Anda?
+dos:749f25480dcc78553fc6652a6cd13fc420230828164748.png
+
+A. Survei Budaya Perusahan.
+1. Sukses denggan Data 32.4%
+2. Tidak Ada Kegagalan 1.4%
+3. Keinginan Dengan Data 66.2%
+
+
+
+Perusahaan konsultan NewVantage Partners yang berasal dari Paris, Perancis, melaporkan bahwa 98.6 persen eksekutif menunjukan bahwa organisasi mereka menginginkan budaya perusahaan mereka berbasis data, tetapi ternyata hanya 32.4 persen yang melaporkan sukses. 
+
+dos:2880f7adf7cf09857af3877bee3be81520230828151136.jpeg
+
+A. Survei Implementasi Budaya Data Perusahan.
+1. Berhasil 30%.
+2. Gagal 70%.
+
+Studi IDC juga mencatat bahwa organisasi telah menginvestasikan triliunan dolar untuk memodernisasi bisnis mereka, tetapi 70 persen dari inisiatif ini gagal karena mereka memprioritaskan investasi teknologi tanpa membangun budaya data untuk mendukungnya.
+
+Wah, sangat disayangkan sekali. Ternyata walaupun teknologi sudah menunjang, teknologi tersebut akan berpeluang gagal jika tidak diiringi dengan transformasi data. 
+
+Sumber: A Guide To Data Driven Decision Making: What It Is, Its Importance, and How To Implement It
+
+Sebagai manusia, tak jarang kita membuat sebuah keputusan secara cepat berdasarkan perasaan dan intuisi, tanpa mempertimbangkan hasil atau konsekuensinya.
+
+Namun, ketika harus membuat sebuah keputusan baik untuk organisasi atau perusahaan, tentu sangat penting untuk mempertimbangkan semua faktor eksternal atau internal sebelum mengambil sebuah keputusan.
+
+Dengan menggunakan Data-Driven Decision Making, organisasi dapat memastikan bahwa tujuan dan sasaran bisnis mereka dipandu oleh bukti yang kuat.
+
+Data-Driven Decision Making atau pengambilan keputusan berbasis data didefinisikan sebagai penggunaan fakta, metrik, dan data untuk memandu keputusan bisnis yang selaras dengan tujuan, sasaran, dan inisiatif perusahaan.
+
+Apakah DDDM begitu penting? Yuk, cari tahu alasannya.
+
+
+
+Mengapa DDDM begitu penting?
+Menggunakan data yang berasal dari riset pasar sangat penting untuk pertumbuhan bisnis. Dengan menggunakan data, Anda dapat membuat strategi yang lincah, tepat sasaran, dan yang penting baik untuk prospek bisnis sebuah organisasi atau perusahaan.
+
+Misalnya, DDDM sangat penting untuk strategi pemasaran berbasis data. Faktanya, 49% bisnis profesional di bidang pemasaran menggunakan strategi berbasis data untuk meningkatkan jangkauan pelanggan (customer reach).
+
+Berikut salah satu contoh data yang digunakan di bidang pemasaran dalam menganalisis insight (wawasan) dan prime time dari social media.
+
+dos:6d60c7defd58256106b45e5f5c66e83620230828151137.jpeg
+
+
+
+Perusahaan Multinasional dengan DDDM
+Organisasi atau perusahaan besar dan sukses saat ini tak luput dari bantuan data-data yang telah mereka kelola dan gunakan. Berikut merupakan beberapa kasus terkait penggunaan DDDM di perusahaan multinasional.
+
+Google
+dos:3101434d863dc10983828a67f05d603720230828152257.pngGoogle mempertahankan fokus pada “people analysis” atau analisis orang. Sebagai bagian dari salah satu inisiatif dari people analysis adalah adanya Project Oxygen. Tahukah Anda apa itu Project Oxygen? Jadi, Project Oxygen adalah upaya untuk menentukan hal yang membuat seorang manajer menjadi hebat di Google. Perusahaan tersebut mengumpulkan lebih dari 10.000 data feedback dan membandingkan data tersebut dengan retensi karyawan. Google menggunakan informasi tersebut untuk mengidentifikasi perilaku dari manajer berkinerja tinggi.
+
+Sederhananya, Google selalu melakukan feedback time untuk para manajernya dengan mengumpulkan feedback sebanyak lebih dari 10.000 data.
+
+Starbucks
+dos:ec8d9ab62d42fa2f627459febb31a3a520230828152325.pngTahukah Anda? Pada tahun 2008 Starbucks pernah tutup gerai sebanyak 70%. Dirasa karena tidak strategis dalam menempatkan toko, maka CEO Howard Schultz melakukan pendekatan yang lebih analitis yaitu mengidentifikasi lokasi toko di masa mendatang.
+
+Saat ini Starbucks telah bermitra dengan perusahaan location-analytics (analitik lokasi) untuk menentukan lokasi toko yang ideal menggunakan data seperti demografi dan pola lalu lintas. Starbucks menggunakan data ini untuk menentukan kemungkinan keberhasilan lokasi tertentu sebelum melakukan investasi baru.
+
+The real “Bangkit dari keterpurukan” Hebat sekali!
+
+Amazon
+dos:40b2fe230d1e13a70473c87dcdbc105c20230828152427.pngE-Commerce terbesar di dunia, menggunakan data untuk memutuskan produk mana yang harus mereka rekomendasikan kepada pelanggan berdasarkan pembelian dan yang mereka cari di kolom pencarian. Mengapa Amazon menggunakan DDDM? Daripada menyarankan produk sembarangan, maka Amazon menggunakan analitik data dan machine learning untuk menggerakan rekomendasinya.
+
+
+Segudang Manfaat DDDM
+Tidak mungkin apabila sebuah metode diciptakan jika tidak terdapat manfaat di dalamnya. Tentunya, Data-Driven Decision Making dibuat dengan memiliki segudang manfaat apabila diterapkan pada sebuah organisasi atau perusahaan. Berikut merupakan manfaat yang dapat diperoleh apabila sebuah organisasi menerapkan DDDM.
+
+Lebih percaya diri dalam membuat keputusan.
+Dengan mengumpulkan data, tidak dapat dipungkiri bahwa untuk memutuskan keputusan yang meyakinkan akan terasa lebih mudah.
+
+Pada dasarnya, data bersifat logis dan konkret, tidak bersifat subjektif. Dengan menghilangkan unsur subjektif dari keputusan yang telah dibuat, Anda dapat menanamkan kepercayaan kepada diri sendiri dan perusahaan secara keseluruhan.
+Lebih proaktif.
+Dengan menerapkan DDDM, Anda dapat mengidentifikasi peluang bisnis sebelum pesaing Anda melakukannya, atau dapat mendeteksi sebuah risiko atau menjadi masalah ketika terjadi.
+Melakukan penghematan biaya.
+Setiap organisasi atau perusahaan tentu memiliki alasan tersendiri dalam menggunakan data pada setiap keputusan bisnisnya. Salah satu penggunaan DDDM adalah ketika perusahaan memutuskan menggunakan data untuk mengurangi pengeluaran dengan kata lain untuk menghemat biaya.
+
+Dengan eksistensi data sebelumnya, sebuah organisasi mampu memutuskan budget yang akan digunakan pada saat ini.
+Setelah mengetahui pentingnya sebuah data hingga mengetahui segudang manfaat DDDM, dapat disimpulkan bahwa untuk menentukan keputusan dengan data perlu melewati beberapa tahap hingga data tersebut menghasilkan informasi yang bermanfaat.
+
